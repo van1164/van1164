@@ -1,5 +1,12 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=van1164)](https://github.com/van1164/github-readme-stats)
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=van1164)](https://github.com/van1164/github-readme-stats)
+<br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=van133)](https://solved.ac/van133)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvan1164%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **van1164/van1164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
