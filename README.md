@@ -41,6 +41,10 @@
 
 ###
 
+<h3 align="left">🛠 Mobile</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="javascript logo"  />
+
 <h3 align="left">🛠 Back-End</h3>
 
 ###
