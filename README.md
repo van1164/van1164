@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Maker from Korea <br>- 📚 I'm currently learning Android <br> <br>- 📚 I'm currently learning Kotlin + Spring <br>  </p>
+<p align="left">I'm Maker from Korea <br>- 📚 I'm currently learning Android <br> - 📚 I'm currently learning Kotlin + Spring <br>  </p>
 
 ###
 
