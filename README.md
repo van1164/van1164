@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻  About Me</h3>
 
 <h3 align="center">I'm Maker from Korea </h3> 
-<h4 align="center">  📚 I'm currently learning Kotlin + Spring <br>  </h>
+<h4 align="center">  📚 I'm currently learning Reactive Programming <br>  </h>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center><h3> 🚩 Language </h3></div>
