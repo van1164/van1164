@@ -3,6 +3,12 @@
 <h3 align="center">I'm Maker from Korea </h3> 
 <!-- <h4 align="center">  📚 I'm currently learning Reactive Programming <br>  </h> -->
 
+<div align=center>
+  
+![Van1164's GitHub stats](https://github-readme-stats.vercel.app/api?username=van1164&show_icons=true&theme=dracula)
+
+</div>
+
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-FC4C02?style=for-the-badge&logo=jakarta&logoColor=white"> 
